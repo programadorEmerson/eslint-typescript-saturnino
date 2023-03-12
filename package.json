@@ -1,0 +1,26 @@
+{
+  "name": "eslint-typescript-saturnino",
+  "version": "1.0.0",
+  "description": "configuration eslint typescript nextjs reactjs",
+  "main": "config.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/programadorEmerson/eslint-typescript-saturnino.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-nextjs",
+    "eslint-reactjs",
+    "typescript-reactjs",
+    "typescript-nextjs"
+  ],
+  "author": "dev-saturnino <programador.emerson@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/programadorEmerson/eslint-typescript-saturnino/issues"
+  },
+  "homepage": "https://github.com/programadorEmerson/eslint-typescript-saturnino#readme"
+}
