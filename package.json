@@ -1,6 +1,6 @@
 {
   "name": "eslint-typescript-saturnino",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "configuration eslint typescript nextjs reactjs",
   "main": "config.json",
   "scripts": {
@@ -18,9 +18,22 @@
     "typescript-nextjs"
   ],
   "author": "dev-saturnino <programador.emerson@gmail.com>",
-  "license": "ISC",
+  "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/programadorEmerson/eslint-typescript-saturnino/issues"
   },
-  "homepage": "https://github.com/programadorEmerson/eslint-typescript-saturnino#readme"
+  "homepage": "https://github.com/programadorEmerson/eslint-typescript-saturnino#readme",
+  "devDependencies": {
+    "eslint": "^8.0.1",
+    "eslint-config-prettier": "^8.6.0",
+    "eslint-config-standard-with-typescript": "^34.0.0",
+    "eslint-plugin-import": "^2.25.2",
+    "eslint-plugin-import-helpers": "^1.3.1",
+    "eslint-plugin-n": "^15.0.0",
+    "eslint-plugin-next": "^0.0.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-promise": "^6.0.0",
+    "eslint-plugin-react": "^7.32.2",
+    "eslint-plugin-unused-imports": "^2.0.0"
+  }
 }
